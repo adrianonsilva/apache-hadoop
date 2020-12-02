@@ -60,6 +60,8 @@ Processamento batch
 
 Links
 
-https://searchstorage.techtarget.com/definition/JBOD 
+https://searchstorage.techtarget.com/definition/JBOD
+
 https://pt.calcuworld.com/calculadoras-informaticas/calculadora-de-megabytes/
+
 http://www.edureka.co/blog/apache-hadoop-hdfs-architecture/?utm_source=quora&utm_medium=crosspost&utm_campaign=social-media-edureka-ab
